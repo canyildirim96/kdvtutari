@@ -50,8 +50,8 @@ Toplam tutar
 
 */
 
+![(C:\Users\canyl\Desktop\kdv tutarı\Kdv.png)](Kdv.png)
 
-![resim]("C:\Users\canyl\Desktop\kdv tutarı\Kdv.png")
 
 
 
